@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Sample Feed (created with ROME)</title>
+    <link>http://pixelbotstudios.com</link>
+    <description>This feed has been created using ROME (Java syndication utilities</description>
+    <item>
+      <title>Worries Grow That the Price of Bitcoin Is Being Propped Up - NY Time Technology</title>
+      <link>https://www.nytimes.com/2018/01/31/technology/bitfinex-bitcoin-price.html?partner=rss&amp;emc=rss</link>
+      <description>When the price of Bitcoin goes down, activity on an influential exchange pumps it back up. That has investors and regulators asking questions.</description>
+      <pubDate>Thu, 01 Feb 2018 05:16:50 GMT</pubDate>
+      <guid>https://www.nytimes.com/2018/01/31/technology/bitfinex-bitcoin-price.html?partner=rss&amp;emc=rss</guid>
+      <dc:creator>NY Time Technology</dc:creator>
+      <dc:date>2018-02-01T05:16:50Z</dc:date>
+    </item>
+    <item>
+      <title>Square shares climb after the payments company launches bitcoin trading for most users - CNBC Technology</title>
+      <link>https://www.cnbc.com/2018/01/31/jack-dorseys-square-launches-bitcoin-trading-for-all-cash-app-users-except-those-in-four-states.html</link>
+      <description>Nearly all users of Square&amp;#039;s Cash app can now trade bitcoin on the platform, CEO Jack Dorsey announces.</description>
+      <pubDate>Wed, 31 Jan 2018 17:30:00 GMT</pubDate>
+      <guid>https://www.cnbc.com/2018/01/31/jack-dorseys-square-launches-bitcoin-trading-for-all-cash-app-users-except-those-in-four-states.html</guid>
+      <dc:creator>CNBC Technology</dc:creator>
+      <dc:date>2018-01-31T17:30:00Z</dc:date>
+    </item>
+    <item>
+      <title>South Korea says it has no plans to shut down cryptocurrency trading - CNBC Technology</title>
+      <link>https://www.cnbc.com/2018/01/31/south-korea-says-it-has-no-plans-to-shut-down-cryptocurrency-trading.html</link>
+      <description>Seoul previously roiled markets when it said that it was considering shutting down local cryptocurrency exchanges.</description>
+      <pubDate>Wed, 31 Jan 2018 15:52:00 GMT</pubDate>
+      <guid>https://www.cnbc.com/2018/01/31/south-korea-says-it-has-no-plans-to-shut-down-cryptocurrency-trading.html</guid>
+      <dc:creator>CNBC Technology</dc:creator>
+      <dc:date>2018-01-31T15:52:00Z</dc:date>
+    </item>
+    <item>
+      <title>James Altucher, the face of bitcoin, says he’s happy about Facebook’s cryptocurrency ad ban - CNBC Technology</title>
+      <link>https://www.cnbc.com/2018/01/31/james-altucher-the-face-of-bitcoin-says-hes-happy-about-facebooks-bitcoin-ban.html</link>
+      <description>You won’t see Altucher’s crypto ads on Facebook anymore. He says that’s a good thing, Recode reports.</description>
+      <pubDate>Wed, 31 Jan 2018 15:09:00 GMT</pubDate>
+      <guid>https://www.cnbc.com/2018/01/31/james-altucher-the-face-of-bitcoin-says-hes-happy-about-facebooks-bitcoin-ban.html</guid>
+      <dc:creator>CNBC Technology</dc:creator>
+      <dc:date>2018-01-31T15:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>Bitcoin headed for biggest monthly drop since January 2015 with well over $60 billion of value wiped off - CNBC Technology</title>
+      <link>https://www.cnbc.com/2018/01/31/bitcoin-is-heading-for-its-biggest-monthly-decline-since-january-2015.html</link>
+      <description>Increased scrutiny from regulators and criticism from major businesses and leaders has weighed on the price of bitcoin.</description>
+      <pubDate>Wed, 31 Jan 2018 12:59:00 GMT</pubDate>
+      <guid>https://www.cnbc.com/2018/01/31/bitcoin-is-heading-for-its-biggest-monthly-decline-since-january-2015.html</guid>
+      <dc:creator>CNBC Technology</dc:creator>
+      <dc:date>2018-01-31T12:59:00Z</dc:date>
+    </item>
+    <item>
+      <title>Line is launching its own bitcoin exchange - CNN Money</title>
+      <link>http://rss.cnn.com/~r/rss/money_technology/~3/ZCDAUhcYwWk/index.html</link>
+      <description>Popular messaging app Line plans to let its more than 170 million users trade virtual currencies through their smartphones.&lt;img src="http://feeds.feedburner.com/~r/rss/money_technology/~4/ZCDAUhcYwWk" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Wed, 31 Jan 2018 08:35:30 GMT</pubDate>
+      <guid>http://rss.cnn.com/~r/rss/money_technology/~3/ZCDAUhcYwWk/index.html</guid>
+      <dc:creator>CNN Money</dc:creator>
+      <dc:date>2018-01-31T08:35:30Z</dc:date>
+    </item>
+    <item>
+      <title>The Shift: Kodak’s Dubious Cryptocurrency Gamble - NY Time Technology</title>
+      <link>https://www.nytimes.com/2018/01/30/technology/kodak-blockchain-bitcoin.html?partner=rss&amp;emc=rss</link>
+      <description>What’s a 130-year-old photo company doing dabbling in cryptocurrency? Either revolutionizing digital rights management or trying to make a quick buck.</description>
+      <pubDate>Wed, 31 Jan 2018 00:28:31 GMT</pubDate>
+      <guid>https://www.nytimes.com/2018/01/30/technology/kodak-blockchain-bitcoin.html?partner=rss&amp;emc=rss</guid>
+      <dc:creator>NY Time Technology</dc:creator>
+      <dc:date>2018-01-31T00:28:31Z</dc:date>
+    </item>
+    <item>
+      <title>Facebook Bans Ads for Bitcoin and Other Cryptocurrencies - NY Time Technology</title>
+      <link>https://www.nytimes.com/2018/01/30/technology/facebook-cryptocurrency-ads.html?partner=rss&amp;emc=rss</link>
+      <description>The social network said it wanted to prevent misleading or deceptive promotional practices.</description>
+      <pubDate>Tue, 30 Jan 2018 21:47:13 GMT</pubDate>
+      <guid>https://www.nytimes.com/2018/01/30/technology/facebook-cryptocurrency-ads.html?partner=rss&amp;emc=rss</guid>
+      <dc:creator>NY Time Technology</dc:creator>
+      <dc:date>2018-01-30T21:47:13Z</dc:date>
+    </item>
+  </channel>
+</rss>
