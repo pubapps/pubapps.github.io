@@ -1,0 +1,98 @@
+{
+    "data": {
+        "deals": {
+            "viewMore": {
+                "url": "https://www.yahoo.com/deals?webview=1&device=smartphone"
+            },
+            "dealOfDay": [
+                {
+                    "providerLogoDark": {
+                        "url": "https://epsolution-mbst-pub-uw2.s3.us-west-2.amazonaws.com/cx/blendr/v2/image-64-px-qvc-png_1540790696014.png",
+                        "height": 64,
+                        "width": 64
+                    },
+                    "header": "HALO Powerpatch Portable Charger",
+                    "uuid": "1996143d-2f4c-4087-90ed-2043b04880e3",
+                    "dealType": "Price",
+                    "beforeDeal": "$33.00",
+                    "withDeal": "$19.98",
+                    "dealUrl": "http://www.qvc.com/HALO-Powerpatch-Portable-Charger-with-Charging-Cables.product.E231122.html?cm_mmc=SABD-_-YAHOO-_-DOTD-_-HALO",
+                    "altText": "QVC",
+                    "detail": "Keep your handheld devices powered up and ready to go with the HALO Powerpatch portable charger. Includes micro USB and Lightning cables for your Android and Apple devices.",
+                    "dealImages": [
+                        {
+                            "url": "https://epsolution-mbst-pub-uw2.s3.us-west-2.amazonaws.com/cx/blendr/v2/image-img-2-500-x-500-png_1539371562584.png",
+                            "height": 500,
+                            "width": 500
+                        },
+                        {
+                            "url": "https://epsolution-mbst-pub-uw2.s3.us-west-2.amazonaws.com/cx/blendr/v2/image-img-1-500-x-500-1-png_1539371574294.png",
+                            "height": 500,
+                            "width": 500
+                        }
+                    ],
+                    "startTime": "1540832430",
+                    "endTime": "1540918830"
+                },
+                {
+                    "providerLogoDark": {
+                        "url": "https://epsolution-mbst-pub-uw2.s3.us-west-2.amazonaws.com/cx/blendr/v2/image-64-px-qvc-png_1540790696014.png",
+                        "height": 64,
+                        "width": 64
+                    },
+                    "header": "HALO Powerpatch Portable Charger",
+                    "uuid": "b91143a7-4c54-4de7-802d-d0a80dda05cd",
+                    "dealType": "Price",
+                    "beforeDeal": "$33.00",
+                    "withDeal": "$19.98",
+                    "dealUrl": "http://www.qvc.com/HALO-Powerpatch-Portable-Charger-with-Charging-Cables.product.E231122.html?cm_mmc=SABD-_-YAHOO-_-DOTD-_-HALO",
+                    "altText": "QVC",
+                    "detail": "Keep your handheld devices powered up and ready to go with the HALO Powerpatch portable charger. Includes micro USB and Lightning cables for your Android and Apple devices.",
+                    "dealImages": [
+                        {
+                            "url": "https://epsolution-mbst-pub-uw2.s3.us-west-2.amazonaws.com/cx/blendr/v2/image-img-2-500-x-500-png_1539371562584.png",
+                            "height": 500,
+                            "width": 500
+                        },
+                        {
+                            "url": "https://epsolution-mbst-pub-uw2.s3.us-west-2.amazonaws.com/cx/blendr/v2/image-img-1-500-x-500-1-png_1539371574294.png",
+                            "height": 500,
+                            "width": 500
+                        }
+                    ],
+                    "startTime": "1540832452",
+                    "endTime": "1540918852"
+                },
+                {
+                    "providerLogoDark": {
+                        "url": "https://epsolution-mbst-pub-uw2.s3.us-west-2.amazonaws.com/cx/blendr/v2/image-64-px-qvc-png_1540790696014.png",
+                        "height": 64,
+                        "width": 64
+                    },
+                    "header": "Titanium One portable SSD - 120 GB External Drive",
+                    "uuid": "a1549bac-5d27-4ff5-8b02-356aeb02b82f",
+                    "dealType": "Price",
+                    "beforeDeal": "$333.33",
+                    "withDeal": "$100",
+                    "dealUrl": "https://www.ebay.com/itm/Titanium-One-Portable-SSD-120GB-3D-NAND-Performance-External-SSD-USB3-0/401559130891?epid=4020943488",
+                    "altText": "ebay",
+                    "detail": "Superfast, shock absorbing integrated design and easy to use. USB 3.0 cable included, compatible with Laptops and Desktops\n",
+                    "dealImages": [
+                        {
+                            "url": "https://epsolution-mbst-pub-uw2.s3.us-west-2.amazonaws.com/cx/blendr/v2/image-1317091080769-png_1541105637199.png",
+                            "height": 500,
+                            "width": 500
+                        },
+                        {
+                            "url": "https://epsolution-mbst-pub-uw2.s3.us-west-2.amazonaws.com/cx/blendr/v2/image-pineapple-clip-art-pineapple-clip-art-1-png_1541105648521.png",
+                            "height": 500,
+                            "width": 500
+                        }
+                    ],
+                    "startTime": "1541063402",
+                    "endTime": "1541145602"
+                }
+            ]
+        }
+    }
+}
